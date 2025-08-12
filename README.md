@@ -14,17 +14,17 @@ This project demonstrates how to set up a local Kubernetes cluster using **Minik
 ## 🚀 Step-by-Step Instructions
 
 ### 1. Check Minikube Version
-![Minikube Version](minikube-version.png)
+![Minikube Version](screenshots/minikube-version.png)
 
 ---
 
 ### 2. Start Minikube
-![Start Minikube](minikube-start.png)
+![Start Minikube](screenshots/minikube-start.png)
 
 ---
 
 ### 3. Check kubectl Version
-![kubectl Version](kubectl-version.png)
+![kubectl Version](screenshots/kubectl-version.png)
 
 ---
 
@@ -33,27 +33,27 @@ This project demonstrates how to set up a local Kubernetes cluster using **Minik
 ---
 
 ### 5. View Deployments
-![kubectl get deployments](kubectl-get-deployments.png)
+![kubectl get deployments](screenshots/kubectl-get-deployments.png)
 
 ---
 
 ### 6. View Pods
-![kubectl get pods](kubectl-get-pods.png)
+![kubectl get pods](screenshots/kubectl-get-pods.png)
 
 ---
 
 ### 7. Describe Pod (and view logs)
-![Describe Pod](describe-pod-log-pod.png)
+![Describe Pod](screenshots/describe-pod-log-pod.png)
 
 ---
 
 ### 8. Expose Deployment & Access Nginx
-![Nginx Page](Nginx-page.png)
+![Nginx Page](screenshots/Nginx-page.png)
 
 ---
 
 ### 9. Stop Minikube
-![Stop Minikube](Minikube-stop.png)
+![Stop Minikube](screenshots/Minikube-stop.png)
 
 ---
 
